@@ -1,1 +1,1 @@
-This is a unit converter. It uses JavaScript to give out a real-time output.
+This is a unit converter. It uses JavaScript to produce a real-time output.
