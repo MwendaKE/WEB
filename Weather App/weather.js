@@ -2,7 +2,7 @@ document.getElementById("lookup").onclick = () => {
     const input = document.getElementById("lookup-city");
     const location = input.value.trim();
     
-    const apikey = "b5f7005b05b31b232f35daab3064b835";
+    const apikey = ""; // ENTER YOUR API KEY HERE. REGISTER AT api.weatherstack.com
     
     fetch(`https://api.weatherstack.com/current?access_key=${apikey}&query=${encodeURIComponent(location)}`)
         .then(response => response.json())
