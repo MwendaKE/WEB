@@ -1,1 +1,1 @@
-A collection of HTML,CSS, and JavaScript projects. Simple and advanced projects for newbies and experienced programmers.
+A collection of HTML,CSS, and JavaScript projects. Simple and advanced projects for newbies.
