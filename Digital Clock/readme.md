@@ -1,1 +1,1 @@
-Web digital clock using JavaScript.
+Live web clock using JavaScript.
